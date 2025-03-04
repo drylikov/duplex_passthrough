@@ -1,0 +1,23 @@
+{
+  "name": "duplex_passthrough",
+  "description": "like a passthrough, but in both directions",
+  "version": "1.0.2",
+  "license": "",
+  "scripts": {
+    "test": "node t.js"
+  },
+  "author": "",
+  "main": "dp.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/drylikov/duplex_passthrough"
+  },
+  "keywords": [
+    "stream",
+    "passthrough",
+    "duplex"
+  ],
+  "bugs": {
+    "url": "https://github.com/drylikov/duplex_passthrough/issues"
+  }
+}
